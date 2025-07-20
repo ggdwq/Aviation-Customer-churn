@@ -1,16 +1,16 @@
 # Aviation-Customer-churn
 # 航空客户信息挖掘 / Airline Customer Information Mining
 
-## 🧪 实验目标 / Experiment Objectives
+## 实验目标 / Experiment Objectives
 本次实验基于航空公司提供的数据，分析用户行为背后的规律，构建预测模型以实现客户流失预警、客户分类与客户价值评估，提升服务效率与客户留存率。
 
 This experiment uses data provided by an airline company to analyze patterns in customer behavior. The goal is to build predictive models to enable churn prediction, customer segmentation, and customer value evaluation, thereby improving service efficiency and customer retention.
 
 ---
 
-## 🔍 分析方法与过程 / Analysis Methods and Process
+## 分析方法与过程 / Analysis Methods and Process
 
-### 📊 总体流程 / Overall Workflow
+### 总体流程 / Overall Workflow
 1. 数据读取 / Data Reading  
 2. 数据清洗与预处理 / Data Cleaning & Preprocessing  
 3. 构造客户流失标签 / Label Construction (Churn)  
@@ -21,7 +21,7 @@ This experiment uses data provided by an airline company to analyze patterns in 
 
 ---
 
-## 🧭 具体步骤 / Detailed Steps
+## 具体步骤 / Detailed Steps
 
 **步骤 1：数据读取 / Step 1: Load Data**  
 航空公司提供两年（8季度）的客户行为数据，共计 62,988 个样本，63 个特征。
@@ -72,13 +72,5 @@ K-Means 聚类结果清晰，客户可按行为特征划分为不同层级。
 
 ---
 
-## 📚 参考文献 / References
-1. Chen et al. *Predicting Customer Churn in the Airline Industry Using Ensemble Learning*. J. Air Transport Management, 2023.  
-2. Kim et al. *Enhancing RFM Model with Machine Learning*. Expert Systems with Applications, 2022.  
-3. Gupta et al. *Interpretable Machine Learning for Customer Churn*. ACM SIGKDD, 2023.  
-4. Müller & Schmidt. *An Integrated CLV-RFM Model for Airline Customer Segmentation*, 2021.
-
----
-
-## 🗂️ 项目结构建议 / Suggested Project Structure
+## 🗂 项目结构建议 / Suggested Project Structure
 
